@@ -1,10 +1,22 @@
 # VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models
 
+<p align="center">
+  <a href="https://visualprompt-vla.github.io/">
+    <img src="https://img.shields.io/badge/Project%20Page-blue?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Project Page">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://arxiv.org/abs/2603.22003">
+    <img src="https://img.shields.io/badge/Paper%20(arXiv)-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper (arXiv)">
+  </a>
+</p>
+
+
 > Vision-Language-Action (VLA) models often struggle with precise spatial grounding and robustness due to monolithic end-to-end designs. In this project, we introduce that decouples high-level reasoning and low-level execution via a structured visual prompting interface, enabling more precise and reliable robotic manipulation.  
 
-Paper: [📖 VP-VLA](https://arxiv.org/abs/2603.22003)  
-
 ---
+
+<video width="640" controls>
+  <source src="assets/VP-VLA_compress.mp4" type="video/mp4">
+</video>
 
 ## Overview of VP-VLA
 
