@@ -14,9 +14,10 @@
 
 ---
 
-<video width="640" controls>
-  <source src="assets/VP-VLA_compress.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/9b17ca16-3fba-4962-9116-6cf27e8242fa
+
+
 
 ## Overview of VP-VLA
 
