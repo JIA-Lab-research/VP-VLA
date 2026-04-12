@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://visualprompt-vla.github.io/">
     <img src="https://img.shields.io/badge/Project%20Page-blue?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Project Page">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://arxiv.org/abs/2603.22003">
     <img src="https://img.shields.io/badge/Paper%20(arXiv)-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper (arXiv)">
   </a>
