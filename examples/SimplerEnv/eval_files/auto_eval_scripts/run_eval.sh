@@ -13,10 +13,10 @@ echo "$(which python)"
 ###########################################################################################
 # === Please modify the following paths according to your environment ===
 # cd /path/to/VP-VLA
-export star_vla_python=/gpfs/wangzixuan/conda_envs/starVLA/bin/python
-export sim_python=/gpfs/wangzixuan/conda_envs/simpler_env/bin/python
-export sam3_python=/gpfs/wangzixuan/conda_envs/sam3/bin/python
-export SimplerEnv_PATH=/gpfs/wangzixuan/visual_prompting/SimplerEnv
+export star_vla_python=/path/to/conda_envs/starVLA/bin/python
+export sim_python=/path/to/conda_envs/simpler_env/bin/python
+export sam3_python=/path/to/conda_envs/sam3/bin/python
+export SimplerEnv_PATH=/path/to/SimplerEnv
 export PYTHONPATH=$(pwd):${PYTHONPATH}
 # === End of environment variable configuration ===
 ###########################################################################################

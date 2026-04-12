@@ -10,9 +10,9 @@
 
 ###########################################################################################
 # === Please modify the paths to Python executables in conda environments ===
-starVLA_PYTHON=/gpfs/wangzixuan/conda_envs/starVLA/bin/python
-ROBOCASA_PYTHON=/gpfs/wangzixuan/conda_envs/robocasa/bin/python
-SAM3_PYTHON=/gpfs/wangzixuan/conda_envs/sam3/bin/python
+starVLA_PYTHON=/path/to/conda_envs/starVLA/bin/python
+ROBOCASA_PYTHON=/path/to/conda_envs/robocasa/bin/python
+SAM3_PYTHON=/path/to/conda_envs/sam3/bin/python
 
 export PYTHONPATH=$(pwd):${PYTHONPATH}
 CKPT_DEFAULT="/path/to/your/checkpoint.pt"

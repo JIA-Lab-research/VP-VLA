@@ -49,7 +49,7 @@ VP-VLA demonstrates the following features:
 
 ## News
 
-[Apr 11th, 2026] 🔥 Code released!
+[Apr 12th, 2026] 🔥 Code released!
 
 [Mar 24th, 2026] 🔥 [📖 Paper](https://arxiv.org/abs/2603.22003) released!
 
